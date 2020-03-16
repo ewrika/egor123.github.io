@@ -1,3 +1,7 @@
+/* *{
+
+ border: 1px solid red;
+} */
 .tag{
 font-family: monospace;
 font-size:100px;
@@ -154,4 +158,18 @@ font-family: monospace;
 .img{
  height: 480px;
  width: 400px;
+}
+.cl1{
+float:left;
+font-size:20pt;    
+font-family:"Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+padding:10px;
+margin:10px;
+}
+.cl2{
+font-size:13pt;    
+font-family:"Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+padding:130px;
+margin:10px;
+float:left;
 }
